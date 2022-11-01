@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Daniyal Asim
+- 👀 I am currently an undergraduate Computer Science (Bsc) student at York University
+- 🌱 Currently learning object oriented programming and video game design

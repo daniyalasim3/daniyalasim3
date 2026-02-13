@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Daniyal Asim
-- 👀 I am currently pursuing a Computer Science (Bsc) degree at York University
+- 👀 Graduated with a Computer Science (Bsc) degree at York University
 - 🌱 Currently learning object oriented programming and video game design
